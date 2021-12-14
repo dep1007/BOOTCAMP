@@ -1,0 +1,19 @@
+MATRIZ
+Não pode ter caractere.
+é uma sequencia.
+tem um ~indice queidentifica a posição. 
+
+cadeia Vetor[5]; //declara um vetor de 5 posições
+cadeia Matriz [5][3]; //declara uma matriz de 5 linhas e 3 colunas
+
+cadeia frutas[4];
+frutas[0]="maça"
+frutas[1]="Pera"
+frutas[2]="uva"
+frutas[3]="melão"
+escreva(frutas[2])
+
+cadeia cesta[][]={{"Maça","100"},{"pera","200"),{"melão","300"}}
+
+escreva("Futa: " +cesta[0][0]0 + "Quantidade: " + cesta[0][1])
+
