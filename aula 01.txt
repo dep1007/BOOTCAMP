@@ -18,3 +18,42 @@ PORTUGOL
 	se(media>=7) {
 		escreva("Parabéns você foi aprovado!!)
 	}
+
+- Posso digitar, quando forem vários "se",
+
+inteiro valor=0
+escolha(valor)
+{
+caso1:
+escreva("Ok!Abrir netflix")
+pare
+
+caso2: 
+escreva("Ok!Abrir Amazon prime")
+pare
+
+caso3:
+escreva("Ok. Abrir HBO)
+pare
+
+caso4:
+escreva("Ok. Sair")
+
+caso contrário:
+escreva("Você deve escolher as opções 1,2,3 ou 4")
+} 
+
+- Repetição: executa comandos de acordo com uma condição. 
+
+funcao inicio()
+{
+
+	inteiro contador,limite,resultado
+	contador=0
+	limite=10
+	faca {
+	resultado=9*contador
+	escreva("9 X" + contador + "=" + resultado + "\n")
+	contador ++
+}enquanto(contador<=limite)
+}
