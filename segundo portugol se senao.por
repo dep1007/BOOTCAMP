@@ -24,7 +24,6 @@ programa
 		se(media>=7) {
 			escreva("\n" + " Parabésn!!Você foi aprovado!!")
 		}
-//caso a media seja menor que 7
 		senao{
 			escreva("\n" + "Infelizmente você foi reprovado")
 		}
@@ -35,7 +34,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 550; 
+ * @POSICAO-CURSOR = 219; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
