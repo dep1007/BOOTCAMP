@@ -1,0 +1,15 @@
+ESTRUTURA DE DADOS
+- organiza os daos (na memória ou dispositivo de armazenamento).
+- estrutura de busca especializada. 
+- para aplicar a estrutura na memória através de um algoritmo. 
+- Com algoritmo você insere dados, exclui dados, localiza elementos, percorre todos 
+os itens da estrutura, e classificar (colocar em ordem). Tudo isso com um vetor.
+- Princiais estruturas: vetores e matrizes, registro, lista, pilha, fila, arvore, tabela harsh 
+
+VETORES E MATRIZES (ARRAYS)
+- várias variáveis do mesmo tipo. 
+- https://portugol-webstudio.cubos.io/ide
+- cria uma variável nomes(nome1,nome2,nome3) por aí vai.
+- possui índices do zero até onde eu quiser e armazena uma quantidade de valores do mesmo tipo.
+Ex: 5 posições: p0,p1,p2,p3,p4 (sempre começa do zero).
+- 
