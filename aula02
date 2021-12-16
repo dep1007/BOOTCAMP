@@ -12,4 +12,21 @@ VETORES E MATRIZES (ARRAYS)
 - cria uma variável nomes(nome1,nome2,nome3) por aí vai.
 - possui índices do zero até onde eu quiser e armazena uma quantidade de valores do mesmo tipo.
 Ex: 5 posições: p0,p1,p2,p3,p4 (sempre começa do zero).
-- 
+
+EXERCÍCIO NO PORTUGOL
+- arquivo genérico
+- tipo da variável
+
+inteiro numeros [5] ou = {39,45,54,55) (que vai ser o indice 0,1,2,3)
+
+escreva(numeros[0]) e vai aparecer 39.
+
+- escrever todos os elementos que o vetor possui: para(inteiro posicao = 0; posicao <=3;posicao ++) {
+escreva(numeros[posicao])}
+
+ou escreva(numeros[posicao] + " ")}
+
+MATRIZ (ARRAY)
+- é vetor de vetores. Tem mais de uma dimensão. 
+- se tiver o tamanho 5 ele vai multiplicar (5x5=25).
+- tem 2 for, um para a linha e outro para a coluna. 
