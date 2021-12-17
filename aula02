@@ -30,3 +30,7 @@ MATRIZ (ARRAY)
 - é vetor de vetores. Tem mais de uma dimensão. 
 - se tiver o tamanho 5 ele vai multiplicar (5x5=25).
 - tem 2 for, um para a linha e outro para a coluna. 
+
+REGISTRO
+- fornece um formato especial.
+- 
